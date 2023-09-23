@@ -1,0 +1,31 @@
+.body{
+    border: 1px solid black;
+    height: 700px;
+    width: 600px;
+    margin-left: 600px;
+    margin-top: 80px;
+}
+.qq{
+    width: 500px;
+    height: 50px;
+    margin: 20px;
+    border: 2px solid dimgray;
+}
+.{
+    width: 700px;
+    height: 50px;
+
+}
+.aa{
+    width: 500px;
+    height: 45px;
+    color: white;
+    background-color: deepskyblue;
+    border: 1px solid rgb(0, 0, 0);
+    padding-bottom: 50px;
+}
+.sss{
+    width: 25px;
+    height: 25px;
+    margin-top: 20px;
+}
